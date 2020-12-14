@@ -26,9 +26,7 @@
   Follow the propmts to generate a README markdown file.
 
   ## Demo
-  <video controls>
-    <source src="09-readme-generator-demo.mp4" type="video/mp4">
-  </video>
+  ![HomeworkDemo](./09-homework-demo.gif)
 
   ## Links
   GitHub Repo for the project:
