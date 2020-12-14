@@ -2,7 +2,7 @@
 
   ## Table of Contents
   [Description](#Description)  
-  [Usage](#Installation & Usage)  
+  [Usage](#Usage)  
   [Demo](#Demo)  
   [Questions](#Questions)
   
@@ -11,7 +11,7 @@
   Homework 09 for UW Coding Bootcamp.
   This application generates a README markdown file via prompts.
   
-  ## Installation & Usage
+  ## Usage
   Make sure you have node.js properly installed.
 
   After you clone the repo, use the command from the proper folder directory:  
